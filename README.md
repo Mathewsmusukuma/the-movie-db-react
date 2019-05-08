@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After cloning the rep:
+
+run npm install
+
+When you want to deploy, change the url in the package.json file.
+
+##On how to deploy to github pages
+You can follow this instructions here <a href="https://reactgo.com/deploy-react-app-github-pages/">https://reactgo.com/deploy-react-app-github-pages/</a>
 
 ## Available Scripts
 

@@ -21,7 +21,7 @@ class Movies extends Component {
 
     return (
       <div>
-        <p className="text-center">No of movies: {count}</p>
+        <p className="text-center">Number of movies: {count}</p>
         <table className="table">
           <thead>
             <tr>
