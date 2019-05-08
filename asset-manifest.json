@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/the-movie-db-react/static/css/main.822bc24d.chunk.css",
+    "main.js": "/the-movie-db-react/static/js/main.4abc6169.chunk.js",
+    "main.js.map": "/the-movie-db-react/static/js/main.4abc6169.chunk.js.map",
+    "runtime~main.js": "/the-movie-db-react/static/js/runtime~main.c2eb818a.js",
+    "runtime~main.js.map": "/the-movie-db-react/static/js/runtime~main.c2eb818a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/the-movie-db-react/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/the-movie-db-react/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/the-movie-db-react/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/the-movie-db-react/index.html",
+    "precache-manifest.5fc808a4b8eb274782d1fdba93b38618.js": "/the-movie-db-react/precache-manifest.5fc808a4b8eb274782d1fdba93b38618.js",
+    "service-worker.js": "/the-movie-db-react/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/the-movie-db-react/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.822bc24d.chunk.css.map": "/the-movie-db-react/static/css/main.822bc24d.chunk.css.map"
+  }
+}
