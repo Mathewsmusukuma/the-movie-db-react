@@ -13,6 +13,11 @@
   color: white;
 }
 
+.responsive {
+  width: 100px;
+  height: 90px;
+}
+
 .App-link {
   color: #61dafb;
 }

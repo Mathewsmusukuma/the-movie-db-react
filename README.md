@@ -1,10 +1,11 @@
-After cloning the rep:
+## After cloning the repo:
 
 run npm install
 
 When you want to deploy, change the url in the package.json file.
 
-##On how to deploy to github pages
+## On how to deploy to github pages
+
 You can follow this instructions here <a href="https://reactgo.com/deploy-react-app-github-pages/">https://reactgo.com/deploy-react-app-github-pages/</a>
 
 ## Available Scripts

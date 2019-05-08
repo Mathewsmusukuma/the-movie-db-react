@@ -25,6 +25,7 @@ class Movies extends Component {
         <table className="table">
           <thead>
             <tr>
+              <th>Poster</th>
               <th>Title</th>
               <th>Genre</th>
               <th>Daily Rating</th>
@@ -35,6 +36,13 @@ class Movies extends Component {
           <tbody>
             {this.state.movies.map(movie => (
               <tr key={movie._id}>
+                <td>
+                  <img
+                    src={movie.image}
+                    alt="Poster"
+                    className="img-thumbnail responsive"
+                  />
+                </td>
                 <td>{movie.title}</td>
                 <td>{movie.genre.name}</td>
                 <td>{movie.dailyRentalRate}</td>
