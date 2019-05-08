@@ -20,6 +20,9 @@ function App() {
       <main className="container">
         <Movies />
       </main>
+      <div className="card-footer text-muted">
+        <p className="text-center">The Learning Mateo 2019</p>
+      </div>
     </div>
   );
 }
